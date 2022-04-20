@@ -1,0 +1,156 @@
+{
+  'id': '3817498149998559207',
+  'from_user': {
+    'id': 888830551,
+    'is_bot': False,
+    'first_name': 'Egor',
+    'username': 'EYadroshnikov',
+    'last_name': 'Yadroshnikov',
+    'language_code': 'ru',
+    'can_join_groups': None,
+    'can_read_all_group_messages': None,
+    'supports_inline_queries': None
+  },
+  'message': {
+    'content_type': 'photo',
+    'id': 109,
+    'message_id': 109,
+    'from_user': <telebot.types.User
+    object
+    at
+    0x00000244C4E9E260>,
+    'date': 1650378286,
+    'chat': <telebot.types.Chat
+    object
+    at
+    0x00000244C4E9E290>,
+    'sender_chat': None,
+    'forward_from': None,
+    'forward_from_chat': None,
+    'forward_from_message_id': None,
+    'forward_signature': None,
+    'forward_sender_name': None,
+    'forward_date': None,
+    'is_automatic_forward': None,
+    'reply_to_message': None,
+    'via_bot': None,
+    'edit_date': None,
+    'has_protected_content': None,
+    'media_group_id': None,
+    'author_signature': None,
+    'text': None,
+    'entities': None,
+    'caption_entities': None,
+    'audio': None,
+    'document': None,
+    'photo': [
+      <telebot.types.PhotoSize
+      object
+      at
+      0x00000244C4E9F220>,
+      <telebot.types.PhotoSize
+      object
+      at
+      0x00000244C4E9F4C0>,
+      <telebot.types.PhotoSize
+      object
+      at
+      0x00000244C4E9F970>,
+      <telebot.types.PhotoSize
+      object
+      at
+      0x00000244C4E9F910>
+    ],
+    'sticker': None,
+    'video': None,
+    'video_note': None,
+    'voice': None,
+    'caption': '****2022-04-19 14:24:45****\n«Bitcoin»\n1 BTC = 41544.824$',
+    'contact': None,
+    'location': None,
+    'venue': None,
+    'animation': None,
+    'dice': None,
+    'new_chat_member': None,
+    'new_chat_members': None,
+    'left_chat_member': None,
+    'new_chat_title': None,
+    'new_chat_photo': None,
+    'delete_chat_photo': None,
+    'group_chat_created': None,
+    'supergroup_chat_created': None,
+    'channel_chat_created': None,
+    'migrate_to_chat_id': None,
+    'migrate_from_chat_id': None,
+    'pinned_message': None,
+    'invoice': None,
+    'successful_payment': None,
+    'connected_website': None,
+    'reply_markup': <telebot.types.InlineKeyboardMarkup
+    object
+    at
+    0x00000244C4E9E230>,
+    'json': {
+      'message_id': 109,
+      'from': {
+        'id': 5319244339,
+        'is_bot': True,
+        'first_name': 'KryptoCurrency',
+        'username': 'CrypCurrencyBot'
+      },
+      'chat': {
+        'id': 888830551,
+        'first_name': 'Egor',
+        'last_name': 'Yadroshnikov',
+        'username': 'EYadroshnikov',
+        'type': 'private'
+      },
+      'date': 1650378286,
+      'photo': [
+        {
+          'file_id': 'AgACAgIAAxkDAANtYl7GLumNS-1VjJfHRTkbXLPlyckAApW5MRs6c_hKxvApIcr680wBAAMCAANzAAMkBA',
+          'file_unique_id': 'AQADlbkxGzpz-Ep4',
+          'file_size': 2079,
+          'width': 90,
+          'height': 90
+        },
+        {
+          'file_id': 'AgACAgIAAxkDAANtYl7GLumNS-1VjJfHRTkbXLPlyckAApW5MRs6c_hKxvApIcr680wBAAMCAANtAAMkBA',
+          'file_unique_id': 'AQADlbkxGzpz-Epy',
+          'file_size': 32806,
+          'width': 320,
+          'height': 320
+        },
+        {
+          'file_id': 'AgACAgIAAxkDAANtYl7GLumNS-1VjJfHRTkbXLPlyckAApW5MRs6c_hKxvApIcr680wBAAMCAAN4AAMkBA',
+          'file_unique_id': 'AQADlbkxGzpz-Ep9',
+          'file_size': 116283,
+          'width': 800,
+          'height': 800
+        },
+        {
+          'file_id': 'AgACAgIAAxkDAANtYl7GLumNS-1VjJfHRTkbXLPlyckAApW5MRs6c_hKxvApIcr680wBAAMCAAN5AAMkBA',
+          'file_unique_id': 'AQADlbkxGzpz-Ep-',
+          'file_size': 136078,
+          'width': 920,
+          'height': 920
+        }
+      ],
+      'caption': '****2022-04-19 14:24:45****\n«Bitcoin»\n1 BTC = 41544.824$',
+      'reply_markup': {
+        'inline_keyboard': [
+          [
+            {
+              'text': 'Обновить',
+              'callback_data': 'reload'
+            }
+          ]
+        ]
+      }
+    }
+  },
+  'inline_message_id': None,
+  'chat_instance': '5524346268799570652',
+  'data': 'reload',
+  'game_short_name': None
+}

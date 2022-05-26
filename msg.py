@@ -1,5 +1,5 @@
 import data
-
+#format massage
 
 def time(ttime):
     ttime = ttime.split("T")[0] + " " + ttime.split("T")[1]
